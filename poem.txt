@@ -1,1 +1,6 @@
-this is something random i am writting in order to see what happens when i create a new file in a brach that i just learnt how to create .. thanks
+this is something random i am writting in order to see what happens when i create a new file in a branch that i just learnt how to create .. 
+thanks
+I am adding new lines
+basically i am seeing how updates works 
+ and how every change is recorded..
+ thanks
